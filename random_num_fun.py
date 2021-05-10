@@ -14,7 +14,6 @@ import random
 def random_number_fun():
     # make the random number
     random_num = random.randint(0, 9)
-    random_num = 6
     # just as a test to make sure it was working
     print(random_num)
 
